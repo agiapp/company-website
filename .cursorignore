@@ -1,0 +1,30 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+# Cursor IDE 忽略文件配置：忽略的文件夹或文件（即不加入Cursor索引）
+foo/
+bar/
+baz/
+node_modules/
+dist/
+build/
+.git/
+.idea/
+.vscode/
+.DS_Store
+.env
+*.csv
+*.txt
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+*.mp4

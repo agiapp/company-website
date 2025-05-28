@@ -30,7 +30,6 @@ import HelloWorld from './components/HelloWorld.vue'
           <router-view></router-view>
         </div>
       </el-main>
-
       <el-footer>
         <div class="footer-content">
           <p>© 2024 智创未来科技有限公司 版权所有</p>
